@@ -19,9 +19,9 @@ I'm a 4th year Computer Science & Business Double Degree student at the [Univers
 
 Previous experience
 
-* [Uber Advanced Technologies Group](https://www.uber.com/ca/en/atg/) - Machine Learning Research Intern supervised by Professor [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
-* [Wish](https://www.wish.com/careers/engineering?hide_login_modal=true) - Software Engineering Intern 
-* [BMO Capital Markets](https://capitalmarkets.bmo.com/en/) - Quantitative Analyst
+* Machine Learning Research Intern at [Uber Advanced Technologies Group](https://www.uber.com/ca/en/atg/) supervised by Professor [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
+* Software Engineering Intern at [Wish](https://www.wish.com/careers/engineering?hide_login_modal=true)
+* Quantitative Analyst at [BMO Capital Markets](https://capitalmarkets.bmo.com/en/)
 
 
 Aside from mathematics and computer science, I invest my time in basketball, track & field, weightlifting, chess, drawing, reading and poker.
