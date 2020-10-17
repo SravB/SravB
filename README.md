@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 4th year Computer Science & Business Double Degree student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently an undergraduate research assistant under the supervision of Professor [Gautam Kamath](http://www.gautamkamath.com/). 
+I'm a 4th year Computer Science & Business Double Degree student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently an undergraduate research assistant under the supervision of Prof. [Gautam Kamath](http://www.gautamkamath.com/). 
 
 Previous experience
 
-* Machine Learning Research Intern at [Uber Advanced Technologies Group](https://www.uber.com/ca/en/atg/) supervised by Professor [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
-* Software Engineering Intern at [Wish](https://www.wish.com/careers/engineering?hide_login_modal=true)
-* Quantitative Analyst at [BMO Capital Markets](https://capitalmarkets.bmo.com/en/)
+* [Research Intern at Uber Advanced Technologies Group](https://www.uber.com/ca/en/atg/) supervised by Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
+* [Software Engineering Intern at Wish](https://www.wish.com/careers/engineering?hide_login_modal=true)
+* [Quantitative Analyst at BMO Capital Markets](https://capitalmarkets.bmo.com/en/)
 
 
 Aside from mathematics and computer science, I invest my time in basketball, track & field, weightlifting, chess, drawing, reading and poker.
