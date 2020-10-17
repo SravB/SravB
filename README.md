@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 I'm a 4th year Computer Science & Business Double Degree student at the [University of Waterloo](https://uwaterloo.ca/).
 
-I'm currently an undergraduate research assistant under the supervision of Professor Gautam Kamath. Previously I was a machine learning research intern at Uber Advanced Technologies Group supervised by Professor Raquel Urtasun. I also have experience as a software engineering intern at Wish and a quantitative analyst at BMO Capital Markets. 
+I'm currently an undergraduate research assistant under the supervision of Professor [Gautam Kamath](http://www.gautamkamath.com/). Previously I was a machine learning research intern at [Uber Advanced Technologies Group](https://www.uber.com/ca/en/atg/) supervised by Professor [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/). I also have experience as a software engineering intern at [Wish](https://www.wish.com/careers/engineering?hide_login_modal=true) and a quantitative analyst at [BMO Capital Markets](https://capitalmarkets.bmo.com/en/). 
 
 
 Aside from mathematics and computer science, I invest my time in basketball, track & field, weightlifting, chess, drawing, reading and poker.
 
+Check out my website: https://sravb.github.io/
