@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 4th year Computer Science & Business Double Degree student at the [University of Waterloo](https://uwaterloo.ca/).
+
+I'm currently an undergraduate research assistant under the supervision of Professor Gautam Kamath. Previously I was a machine learning research intern at Uber Advanced Technologies Group supervised by Professor Raquel Urtasun. I also have experience as a software engineering intern at Wish and a quantitative analyst at BMO Capital Markets. 
+
+
+Aside from mathematics and computer science, I invest my time in basketball, track & field, weightlifting, chess, drawing, reading and poker.
+
