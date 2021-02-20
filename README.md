@@ -19,7 +19,7 @@ I'm a 4th year Computer Science & Business Double Degree student at the [Univers
 
 ### Previous experience
 
-* [Research Intern at Uber Advanced Technologies Group](https://www.uber.com/ca/en/atg/) supervised by Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
+* [Research Intern at Uber ATG](https://www.uber.com/ca/en/atg/) supervised by Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
 * [Software Engineering Intern at Wish](https://www.wish.com/careers/engineering?hide_login_modal=true) (Winter 2019)
 * [Quantitative Analyst at BMO Capital Markets](https://capitalmarkets.bmo.com/en/) (Summer 2018)
 
