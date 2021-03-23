@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 4th year Computer Science & Business Double Degree student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently an undergraduate research assistant under the supervision of Prof. [Gautam Kamath](http://www.gautamkamath.com/). 
+I'm in my final year of undergraduate studies at the [University of Waterloo](https://uwaterloo.ca/) pursuing Computer Science and Finance. I'm currently an undergraduate research assistant under the supervision of Prof. [Gautam Kamath](http://www.gautamkamath.com/). 
 
-### Previous experience
+### Work experience
 
-* [Research Intern at Uber ATG](https://www.uber.com/ca/en/atg/) supervised by Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
+* [Incoming Research Scientist Intern at NVIDIA](https://www.nvidia.com/en-us/research/) supervised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) (Summer 2021)
+* [Research Intern at Uber ATG](https://eng.uber.com/) supervised by Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
 * [Software Engineering Intern at Wish](https://www.wish.com/careers/engineering?hide_login_modal=true) (Winter 2019)
 * [Quantitative Analyst at BMO Capital Markets](https://capitalmarkets.bmo.com/en/) (Summer 2018)
 
