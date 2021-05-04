@@ -19,7 +19,7 @@ I'm in my final year of undergraduate studies at the [University of Waterloo](ht
 
 ### Work experience
 
-* [Incoming Research Scientist Intern at NVIDIA](https://www.nvidia.com/en-us/research/) supervised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) (Summer 2021)
+* [Research Scientist Intern at NVIDIA](https://www.nvidia.com/en-us/research/) supervised by Prof. [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/) (Summer 2021)
 * [Research Intern at Uber ATG](https://eng.uber.com/) supervised by Prof. [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) (Winter 2020)
 * [Software Engineering Intern at Wish](https://www.wish.com/careers/engineering?hide_login_modal=true) (Winter 2019)
 * [Quantitative Analyst at BMO Capital Markets](https://capitalmarkets.bmo.com/en/) (Summer 2018)
